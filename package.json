@@ -1,0 +1,14 @@
+{
+  "name": "vue-dirtifier",
+  "version": "1.0.0",
+  "description": "Mark Vue.js inputs as dirty and cleaned",
+  "main": "vue-dirtifier.js",
+  "scripts": {},
+  "keywords": [
+    "vue",
+    "input",
+    "dirty"
+  ],
+  "author": "devend711",
+  "license": "MIT"
+}
