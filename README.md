@@ -9,7 +9,7 @@ Add Angular-ish class names to inputs in various states
 
 ```
 var dirtifier = require('vue-dirtifier')
-Vue.use(dirt)
+Vue.use(dirtifier)
 
 // create a root instance
 // and tell Vue to start watching inputs
