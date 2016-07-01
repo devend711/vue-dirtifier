@@ -1,3 +1,7 @@
+## vue-dirtifier
+
+##### Add Angular-ish class names to inputs in various states
+
 ## Usage
 
 ```

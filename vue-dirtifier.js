@@ -46,7 +46,7 @@
       for(var i=0; i < inputs.length; i++) {
         (function (index) {
           for(var j=0; j < options.events.length; j++) {
-            addEventListeners(input[index]);
+            addEventListeners(inputs[index]);
           }
         })(i);
       }
