@@ -2,9 +2,8 @@
 
 Add Angular-ish class names to inputs in various states
 
-![Dirty](https://cloud.githubusercontent.com/assets/4107518/16535704/8805ce7e-3fb7-11e6-964e-5f0261d53b55.png "'Dirty' state")
-
-![and Cleaned!](https://cloud.githubusercontent.com/assets/4107518/16535705/880dfe1e-3fb7-11e6-8012-6a28887fae72.png "'Cleaned' state")
+<img src="https://cloud.githubusercontent.com/assets/4107518/16535704/8805ce7e-3fb7-11e6-964e-5f0261d53b55.png" width="300px" title="'Dirty' state" alt="'Dirty' state">
+<img src="https://cloud.githubusercontent.com/assets/4107518/16535705/880dfe1e-3fb7-11e6-8012-6a28887fae72.png" width="300px" title="'Cleaned' state" alt="'Cleaned' state">
 
 ## Usage
 
