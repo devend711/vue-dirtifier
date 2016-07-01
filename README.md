@@ -1,6 +1,10 @@
 ## vue-dirtifier
 
-##### Add Angular-ish class names to inputs in various states
+Add Angular-ish class names to inputs in various states
+
+![Dirty](https://cloud.githubusercontent.com/assets/4107518/16535704/8805ce7e-3fb7-11e6-964e-5f0261d53b55.png "'Dirty' state")
+
+![and Cleaned!](https://cloud.githubusercontent.com/assets/4107518/16535705/880dfe1e-3fb7-11e6-8012-6a28887fae72.png "'Cleaned' state")
 
 ## Usage
 
@@ -23,18 +27,22 @@ new Vue({
 
 **events**
 Decides the event listeners to attach to each input object.
+
 Default: `["input", "change", "keyup", "paste"]`
 
 **dirtyClassName**
 Decides the class name to add to any input after one of the event triggers.
+
 Default: `"dirty"`
 
 **cleanedClassName**
 Decides the class name to add to any dirty text input that has been cleared.
+
 Default: `"cleaned"`
 
 **checkCleaned**
 Decides whether or not to care about adding `options.cleanedClassName`.
+
 Default: `true`
 
 Pass your options as an object like this:
