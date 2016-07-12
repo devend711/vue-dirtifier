@@ -24,6 +24,12 @@ new Vue({
 
 ### Options
 
+You can set and pass any of the options below as an object like this:
+
+```
+Vue.use(dirtifier, options)
+```
+
 **events**
 Decides the event listeners to attach to each input object.
 
@@ -43,9 +49,3 @@ Default: `"cleaned"`
 Decides whether or not to care about adding `options.cleanedClassName`.
 
 Default: `true`
-
-Pass your options as an object like this:
-
-```
-Vue.use(dirt, options)
-```
